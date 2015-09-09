@@ -1,2 +1,2 @@
 # sphera
-La biosphera del PLUG
+La biosphera del PLUG v 0.01
